@@ -8,4 +8,4 @@ This is a simple clone of the spotify web interface made only using **HTML** and
 
 # Project Preview
 
-Output.png
+https://github.com/nidhi829n/Spotify-Clone/blob/main/Output.png
