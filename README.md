@@ -7,3 +7,5 @@ This is a simple clone of the spotify web interface made only using **HTML** and
 2.CSS
 
 # Project Preview
+
+Output.png
